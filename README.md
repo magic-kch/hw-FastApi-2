@@ -3,7 +3,7 @@
 ## Подготовка к работе
 
 ```bash
-git clone https://github.com/magic-kch/hw-FastApi-1.git
+git clone https://github.com/magic-kch/hw-FastApi-2.git
 cd hw-FastApi-2
 docker-compose up -d
 ```
